@@ -1,0 +1,16 @@
+# Writing an Interpreter in GO 
+
+## Chapter One
+
+*Defining the lexer*
+    Position and readposition in lexer are used to access the characted in input
+    by using them as an index. 
+
+    These 'pointers' allow us to look further into the input and see what is 
+    coming next so we can look after the current value which is ch.
+
+    readposition always points to whats next, and position always points to
+    the character in the into that corresponds with the ch byte, the current 
+    character.
+
+### 
