@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"os/user"
-	"src/interpreter/repl"
+	"/home/silliwilli/Desktop/interpreter/Interpreter_GO/repl"
 )
 
 func main() {

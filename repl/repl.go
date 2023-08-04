@@ -4,8 +4,9 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"src/interpreter/lexer"
-	"src/interpreter/token"
+	"/home/silliwilli/Desktop/interpreter/Interpreter_GO/lexer"
+	"/home/silliwilli/Desktop/interpreter/Interpreter_GO/token"
+
 )
 
 const PROMPT = ">>"

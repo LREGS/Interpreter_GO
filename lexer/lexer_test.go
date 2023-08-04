@@ -3,8 +3,8 @@ package lexer
 import (
 	"testing"
 
-	"src/interpreter/token"
-)
+	"/home/silliwilli/Desktop/interpreter/Interpreter_GO/token"
+")
 
 func TestNextToken(t *testing.T) {
 	input := `let five = 5;
